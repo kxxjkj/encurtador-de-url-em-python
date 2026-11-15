@@ -11,7 +11,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 <!-- Substitua pelo seu GIF ou print: grave com https://github.com/charmbracelet/vhs ou asciinema -->
-![Demonstração](assets/demo.gif)
+![Demonstração](assets/demo.png)
 
 </div>
 
