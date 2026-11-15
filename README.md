@@ -147,4 +147,4 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE).
 
 ---
 
-<div align="center">Feito com 🐍 por <a href="https://github.com/SEU-USUARIO">Seu Nome</a></div>
+<div align="center">Feito com 🐍 por <a href="https://github.com/SEU-USUARIO">wx</a></div>
